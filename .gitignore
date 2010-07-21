@@ -1,0 +1,9 @@
+# OS junk
+Thumbs.db
+.DS_Store
+
+# Haskell junk
+dist/
+*.hi
+*.o
+
